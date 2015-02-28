@@ -4,7 +4,7 @@ A Qt Quick port of some components using Google Material Design.
 ## Contents
 ### MaterialProgressBar
  This component will show a progress bar just like this:
- ![](img1)
+ ![](https://raw.githubusercontent.com/unixzii/QtMaterialDesignComponents/master/contents/1.gif)
  You can use this to represent the progress of a buffering work.
 #### API
 ##### Functions
@@ -17,7 +17,7 @@ A Qt Quick port of some components using Google Material Design.
 
 ### MaterialProgressIndicator
  This component will show a ring just like this:
-  ![](img2)
+  ![](https://raw.githubusercontent.com/unixzii/QtMaterialDesignComponents/master/contents/2.gif)
   You can use this to represent a undetermined progress.
 #### API
 ##### Properties
